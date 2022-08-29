@@ -1,4 +1,4 @@
-### IT1025 is the first step into cyber security field. I plan on taking the experiences I have learned from this and applying it to my career path.
+### IT1025 is the first step into cyber security degree that I am pursuing. I plan on taking the experiences I have learned from this and applying it to my career path.
 
 <!--
 **AmonteCrawleyIT1025/AmonteCrawleyIT1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
