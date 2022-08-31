@@ -1,7 +1,6 @@
 # Executive Summary 
-test 
-# how to do this 
-test test test
+ 
+
 <!--
 **AmonteCrawleyIT1025/AmonteCrawleyIT1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
