@@ -9,8 +9,17 @@ Why does adding more RAM make a computer run faster? By increasing the amount of
 
 What is the difference between 64 and 32 bit data paths? The difference is 64 bit can transfer 64 bit of data at a time, making it faster than 32 bit. 32 bit can transfer 32 bit at a time.
  
+ # ALU and the Control Unit
+ The Control Unit is like the captain of the army. It recieves info from the RAM and tell the ALU what type of operation to perform. ALU then performs the operation and outputs the answers.
+ 
+ # CPU, Input & Output 
+When you press a letter on a key board that letter is sent as binary. The CPU then calculates how to display the letter. Next, the CPU ask instructions from memory on how to draw the letter. The CPU then runs the instructions and stores it in memory. Finally, information is then sent to the screen in binary, the screen is the output source.
 
-memory
+#  IEEE - Ethically Aligned Design
+ 
+ 
+
+
 
 # Conclusion
 In conclusion, the computer works like a team. Every piece of hardware has a unique job to do, when one piece is not doing its job properly the rest of the computer can not run properly. In order to keep your computer running properly you need to make sure you have all your hardware up to date. 
