@@ -16,10 +16,7 @@ What is the difference between 64 and 32 bit data paths? The difference is 64 bi
 When you press a letter on a key board that letter is sent as binary. The CPU then calculates how to display the letter. Next, the CPU ask instructions from memory on how to draw the letter. The CPU then runs the instructions and stores it in memory. Finally, information is then sent to the screen in binary, the screen is the output source.
 
 #  IEEE - Ethically Aligned Design
+IEEE purpose is dedicated to advancing innovation and technological excellence for the benefit of humanity. It's important for designers to understand how ethics relates to product design because products are designed for people, and product design impacts the way we live.
  
- 
-
-
-
 # Conclusion
 In conclusion, the computer works like a team. Every piece of hardware has a unique job to do, when one piece is not doing its job properly the rest of the computer can not run properly. In order to keep your computer running properly you need to make sure you have all your hardware up to date. 
