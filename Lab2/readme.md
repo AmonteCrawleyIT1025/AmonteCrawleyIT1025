@@ -18,5 +18,12 @@ When you press a letter on a key board that letter is sent as binary. The CPU th
 #  IEEE - Ethically Aligned Design
 IEEE purpose is dedicated to advancing innovation and technological excellence for the benefit of humanity. It's important for designers to understand how ethics relates to product design because products are designed for people, and product design impacts the way we live.
  
+# Data Representation 
+Explain the difference between decimal, binary and hexadecimal numbers. The difference is Decimal uses a base of ten, Binary uses a base of two, and hexidecimal uses a base of 16. 
+ 
+
+# Numeric Conversions
+ 
+ 
 # Conclusion
 In conclusion, the computer works like a team. Every piece of hardware has a unique job to do, when one piece is not doing its job properly the rest of the computer can not run properly. In order to keep your computer running properly you need to make sure you have all your hardware up to date. 
