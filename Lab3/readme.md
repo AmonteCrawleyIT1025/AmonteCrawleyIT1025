@@ -22,3 +22,4 @@ What I need to do to become co-op ready is to schedule an appointment with a car
 ###### Industry Associations / Student Organizations
 One of the clubs that my school offer that I find very interesting is Cyber Security Club. This club will bring everyone who enjoys cyber security together. This club will also help each other in learning the cyber security skill; as well as, compete in competitions to gain a hands on experience.
 
+# Conclusion
