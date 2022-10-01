@@ -1,4 +1,5 @@
 # Executive Summary 
+In this chapter I plan to learn many things. I am hoping I will gain more skills that I will be able to use in the future that will give me more reach inside my career. What I will be learning about is software and python. I will also be exploring career fields in the tech industry and seeing where I would want to be involved.
 
 # Software 
 The role of the operating system software is to manage hardware and create the interface between between the harware and user. A few examples of a Operating system software are Macos, Microsoft and Linux.
@@ -23,3 +24,4 @@ What I need to do to become co-op ready is to schedule an appointment with a car
 One of the clubs that my school offer that I find very interesting is Cyber Security Club. This club will bring everyone who enjoys cyber security together. This club will also help each other in learning the cyber security skill; as well as, compete in competitions to gain a hands on experience.
 
 # Conclusion
+This was one of my favorite labs. I learned a lot about software and Python. Learning Python was a hard but fun experience. I am excited to be one step closer to my goals, I plan on using python everyday just for more practice. I also got to schedule an appoinment with the career coach to help me find opportunities for cyber security internships. During this lab I also signed up to be a member of the cyber security team, hopefully I get accepted this should be a fun experience and great hands on experience.
