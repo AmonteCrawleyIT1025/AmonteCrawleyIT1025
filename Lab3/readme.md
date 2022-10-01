@@ -7,5 +7,7 @@ The role of utility software is to modify your compuetr in some way. An example 
 The purpose of ERP software is to bring together  an entire organization within one program. An exmaple of ERP software is Google Google docs.
 
 # Python
+What is meant by the pseudo-code nature of Python is that Python does not involve any code in it.
+What is an interpreted language vs. a compiled language? In a compiled language, the target machine directly translates the program. In an interpreted language, the source code is not directly translated by the target machine.
 
 
