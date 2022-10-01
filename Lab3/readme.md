@@ -10,4 +10,6 @@ The purpose of ERP software is to bring together  an entire organization within 
 What is meant by the pseudo-code nature of Python is that Python does not involve any code in it.
 What is an interpreted language vs. a compiled language? In a compiled language, the target machine directly translates the program. In an interpreted language, the source code is not directly translated by the target machine.
 
+# Career Exploration 
+
 
