@@ -12,5 +12,13 @@ What is an interpreted language vs. a compiled language? In a compiled language,
 
 # Career Exploration 
 ## College Central
-
+From my research I have found a few opportunities on this website. Although there are not many internships, I am looking forward to applying and hopefully getting a response from one of them.
+### Certifications
+What I have learned is that considering I am starting out with no certificates, the Comptia A is the best option for me to try to get at this moment.
+#### Certificates
+A certificate I am interested in is cyber security. In the future, I plan on taking my degree using the knowledge I gained to pursue a career in cyber security.
+##### Co-ops / Internships
+What I need to do to become co-op ready is to schedule an appointment with a career coach, so he or she can help me through the process. The benefits of a co-op program is that it will give me hands on experience in the career field I am currently pursuing.
+###### Industry Associations / Student Organizations
+One of the clubs that my school offer that I find very interesting is Cyber Security Club. This club will bring everyone who enjoys cyber security together. This club will also help each other in learning the cyber security skill; as well as, compete in competitions to gain a hands on experience.
 
