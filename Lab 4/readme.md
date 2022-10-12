@@ -10,9 +10,10 @@ The Python shell is the interactive console. You can enter single commands and c
  Data types are the classification or categorization of data items. It represents the kind of value that tells what operations can be performed on a particular data. There are three types Numeric, Sequence Type, and Boolean.
 
 
-# graphics
+# Graphics
 
 ## Raster vs. Vector Graphics
+Raster graphics are made up of orderly arranged colored pixels to display any image whereas, vector graphics are composed of paths using a mathematical formula that is a vector that directs the route and shape.
 
 ### Lossless vs. Lossy Compression
 
