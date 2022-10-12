@@ -3,7 +3,7 @@ In Lab 4, I plan on learning more things on Python such as creating and executin
 # Python IDLE
 The Python shell is the interactive console. You can enter single commands and classes and functions into the shell. However, you can’t save your code from the shell. IDLE is Python's Integrated Development and Learning Environment. It allows programmers to easily write Python code. Just like Python Shell, IDLE can be used to execute a single statement and create, modify, and execute Python scripts.
 ## Code Examples
- A variable is a value that can change, depending on conditions or on information passed to the program. An example of a variable is spam +42 which evaluates to 42.
+ A variable is a value that can change, depending on conditions or on information passed to the program. An example of a variable is spam = 42 which evaluates to 42.
  We use Python assignment statements to assign objects to names. Example is Student = Geek print(student), The output would be geek.
  A function is a block of code that performs a specific task. An example of a function would be reverseing a sentence using recursion.
  There are three distinct numeric types: integers, floating point numbers, and complex numbers.
