@@ -9,15 +9,17 @@ The Python shell is the interactive console. You can enter single commands and c
  There are three distinct numeric types: integers, floating point numbers, and complex numbers.
  Data types are the classification or categorization of data items. It represents the kind of value that tells what operations can be performed on a particular data. There are three types Numeric, Sequence Type, and Boolean.
 
-
 # Graphics
 
 ## Raster vs. Vector Graphics
-Raster graphics are made up of orderly arranged colored pixels to display any image whereas, vector graphics are composed of paths using a mathematical formula that is a vector that directs the route and shape.
+Raster graphics are made up of orderly arranged colored pixels to display any image. In simple terms its when a small image lose quality when you enlarge it. Vector graphics are quite different from raster. You can make them any size, big or small, without losing quality.
 
 ### Lossless vs. Lossy Compression
+Lossy compression means that the image size is reduced while some data from the original image file is eliminated. The biggest benefit of lossy compression is that it significantly reduces the size of the image file. While, Lossless compression means that you reduce the size of an image without any quality loss. The big benefit and advantage of lossless compression are that it allows you to retain the quality of your images while reducing their file size.
 
 #### File Formats
+GIF (Graphics Interchange Format) is a bitmap image format.It supports up to 8 bits per pixel, meaning that an image can have up to 256 distinct RGB colors. One of the biggest advantages to the GIF format is that it allows for animated images, something neither of the other formats allow. JPEG (Joint Photographic Experts Group) is an image format that uses lossy compression to create smaller file sizes. One of JPEG’s big advantages is that it allows the designer to fine-tune the amount of compression used. This results in better image quality when used correctly while also resulting in the smallest reasonable file size. PNG (Portable Network Graphics) is another bitmapped image format that uses lossless data compression and was created to replace the GIF image format. The PNG format was largely unsupported by Internet Explorer for a long time, making it less commonly used than GIF and JPEG formats, though it’s now supported properly by every major browser. PNG files support palette-based color (either 24-bit RGB or 32-bit RGBA), greyscale, RGBA and RGB color spaces. One of PNG’s biggest advantages is that it supports a number of transparency options, including alpha channel transparency.
+
 
 ##### File Properties
 I designed an imagine of a logo for Cyber security. My reaaoning for designing this logo was because I plan on opening my very own cyber security company in the future. The logo required three layers to create. 
