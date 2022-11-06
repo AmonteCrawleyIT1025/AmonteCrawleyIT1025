@@ -1,4 +1,5 @@
 # Executive Summary
+Considering my degree in the works is cyber security I am excited to begin learning more information about my career field. I plan on take this knowlege and applying it to my career. I know there is a lot to learn about cyber security, but I am ready to take on any challenge that comes my way. 
 
 # Lucidchart
 My experience with lucidchart felt first nature considering I have used it before. However, now I know how I will be able to utilize this for my career.
@@ -37,4 +38,8 @@ I typed a message in the "Frequency Fingerprint Exploration" the result I got we
 A polyalphabetic cipher is any cipher based on substitution, using multiple substitution alphabets.
 
 I typed a message in the "Polyalphabetic Exploration" box as well as a shift word. The results I got were a encrypted and decrypted message.
+
+# Brute-Force
+A brute-force attack is a trial-and-error method used by application programs to decode login information and encryption keys to use them to gain unauthorized access to systems. It relates with Kerckhoffs’s principle because it is a concept that a Cryptographic system should be designed to be secure, even if all its details, except for the key, are publicly known.
+
 
