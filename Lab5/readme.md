@@ -27,6 +27,14 @@ Access control determines which users are authorized to read, modify, add, and/o
 Explaining the interaction of ciphertext, a public key and a private key. 
 Firstly, obtain the public key, encode the message, and send it. The recipient then uses their private key to decode it. The public key can be given to anyone who wishes to send the recipient a message. Each user simply needs one private key and one public key in order to secure messages. The private key is necessary in order to decrypt a message sent with the public key.
 
-we need public key cryptography to keep privacy between two users who do not want others knowing certain information.
+we need public key cryptography to keep privacy between two users who do not want others knowing certain information that they're trying to share from a distance.
 
+# Cryptography 
+I typed a message in the "Caesar Cipher Exploration'' box and turned the wheel to encrypt a message. What happened was that the letters I used in my message were assigned a certain letter to help encrypt the message.
+
+I typed a message in the "Frequency Fingerprint Exploration" the result I got were higher frequencies of the letters I used. The more I used one letter the higher the frequency of that letter got. It would be different for different languages because some languages have different spellings. 
+
+A polyalphabetic cipher is any cipher based on substitution, using multiple substitution alphabets.
+
+I typed a message in the "Polyalphabetic Exploration" box as well as a shift word. The results I got were a encrypted and decrypted message.
 
