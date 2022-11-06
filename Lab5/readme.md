@@ -42,4 +42,6 @@ I typed a message in the "Polyalphabetic Exploration" box as well as a shift wor
 # Brute-Force
 A brute-force attack is a trial-and-error method used by application programs to decode login information and encryption keys to use them to gain unauthorized access to systems. It relates with Kerckhoffs’s principle because it is a concept that a Cryptographic system should be designed to be secure, even if all its details, except for the key, are publicly known.
 
+# Conclusion
+Learning about cyber security is fun. I see that cyber security has many things to do with network connection, encryption keys, and more. I see there is a lot to learn, I should be studying more often on my off time to review the different information I learn. In cyber secuirty you never stop learning their are new things to learn everyday.
 
