@@ -18,3 +18,4 @@ HTML essentially, is the code that dictates where all the website elements are a
 The approach I took for my website was to make it simple, yet effective. While using the website I designed in a brief moment you will be able to learn many things about why video game violence is not appropriate for children.
 ### HTML and XML
 The key difference between HTML and XML is that HTML displays data and describes the structure of a webpage, whereas XML stores and transfers data.
+# Components of a URL 
