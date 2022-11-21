@@ -1,3 +1,5 @@
+# Executive Summary
+In this Lab I plan on learning more about internet structuring and programming. While doing some reading I read that developing new websites and programming was a very difficult task. I am very excited to dive into this and see what there is to learn about Internet Architecture and Programming.
 # Internet Architecture 
 ## Internet Protocol
 An IP address, or Internet Protocol address, is a series of numbers that identifies any device on a network. The main difference between IPv4 and IPv6 is the address size of IP addresses. The IPv4 is a 32-bit address, whereas IPv6 is a 128-bit hexadecimal address.
@@ -19,3 +21,8 @@ The approach I took for my website was to make it simple, yet effective. While u
 ### HTML and XML
 The key difference between HTML and XML is that HTML displays data and describes the structure of a webpage, whereas XML stores and transfers data.
 # Components of a URL 
+Every URL begins with the scheme. This tells your browser what type of address it is so the browser connects to it correctly. There are many types of schemes, but for typical web browsing you will mostly see http and https. 
+The domain name is the most prominent part of a web address. Typically, different pages on the same site will continue to use the same domain name. The domain on the right is called a top-level domain such as .edu. The anchor tells your browser to scroll to or load a specific part of the page. Some URLs include a string of characters after the path—beginning with a question mark—called the parameter string.
+
+# Conclusion 
+Although I did not see myself enjoying creating a new website, I actually found it very fun. It was very complicated, however the process was so fun that I looked over the difficulty. I see that there is a lot to learn about Internet architecture and programming . I will commit a lot of my time to learning more.
