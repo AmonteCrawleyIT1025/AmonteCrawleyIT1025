@@ -14,3 +14,7 @@ Not securing your web browser can lead quickly to a variety of computer problems
 ###  World Wide Web Consortium
 Sir Tim Berners-Lee invented the World Wide Web in 1989. He is the co-founder and CTO of Inrupt.com The World Wide Web Consortium (W3C) is an international community where Member organizations, a full-time staff, and the public work together to develop Web standards.
 HTML essentially, is the code that dictates where all the website elements are and how they appear to the user.
+###  HTML5 and CSS
+The approach I took for my website was to make it simple, yet effective. While using the website I designed in a brief moment you will be able to learn many things about why video game violence is not appropriate for children.
+### HTML and XML
+The key difference between HTML and XML is that HTML displays data and describes the structure of a webpage, whereas XML stores and transfers data.
