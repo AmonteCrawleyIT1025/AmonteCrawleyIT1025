@@ -10,3 +10,7 @@ The HTTP is the Web's application layer protocol works on the Client-Server tech
 HTTPS uses an encryption protocol to encrypt communications. The protocol is called Transport Layer Security (TLS).
 # Securing Your Web Browser
 Not securing your web browser can lead quickly to a variety of computer problems caused by anything from spyware being installed without your knowledge to intruders taking control of your computer.
+#  Internet Programming 
+###  World Wide Web Consortium
+Sir Tim Berners-Lee invented the World Wide Web in 1989. He is the co-founder and CTO of Inrupt.com The World Wide Web Consortium (W3C) is an international community where Member organizations, a full-time staff, and the public work together to develop Web standards.
+HTML essentially, is the code that dictates where all the website elements are and how they appear to the user.
