@@ -1,4 +1,12 @@
 # Internet Architecture 
 ## Internet Protocol
 An IP address, or Internet Protocol address, is a series of numbers that identifies any device on a network. The main difference between IPv4 and IPv6 is the address size of IP addresses. The IPv4 is a 32-bit address, whereas IPv6 is a 128-bit hexadecimal address.
-
+ICANN is the private, non-government, nonprofit corporation with responsibility for Internet Protocol (IP) address space allocation, protocol parameter assignment, domain name system (DNS) management and root server system management functions. ICANN manages the distribution and allocation of IP version 4 and IP version 6 network addresses through five regional internet registries.
+#  TCP/IP
+TCP/IP is responsible for full-fledged internet data connectivity and transmitting the data end to end by providing other functions, including addressing, mapping and acknowledgment. The “Client” in a TCP/IP connection is the computer or device that “dials the phone” and the “Server” is the computer that is “listening” for calls to come in.
+Each protocol in the stack is responsible for a specific task, and by layering them, we can create a more robust and reliable system. The application layer is used by end-user software such as web browsers and email clients.
+#  Internet Security
+The HTTP is the Web's application layer protocol works on the Client-Server technology. The client request for the HTML pages towards server and the server responses with HTML pages. In this, the client requests pages and objects through its agent and Server responses them with the requested objects by displaying.
+HTTPS uses an encryption protocol to encrypt communications. The protocol is called Transport Layer Security (TLS).
+# Securing Your Web Browser
+Not securing your web browser can lead quickly to a variety of computer problems caused by anything from spyware being installed without your knowledge to intruders taking control of your computer.
